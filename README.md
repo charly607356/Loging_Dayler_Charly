@@ -1,2 +1,2 @@
 # Loging_Dayler_Charly
-crear usuario logting
+crear usuario login
